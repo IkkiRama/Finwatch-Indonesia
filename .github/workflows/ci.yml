@@ -1,0 +1,85 @@
+name: FINWATCH checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_DATABASE: finwatch_ci
+          MYSQL_ROOT_PASSWORD: isolated-ci-password
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h 127.0.0.1 -pisolated-ci-password"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=10
+    env:
+      APP_ENV: testing
+      APP_DEBUG: 'false'
+      APP_URL: http://localhost
+      DB_CONNECTION: mysql
+      DB_HOST: 127.0.0.1
+      DB_PORT: 3306
+      DB_DATABASE: finwatch_ci
+      DB_USERNAME: root
+      DB_PASSWORD: isolated-ci-password
+      SESSION_DRIVER: database
+      CACHE_STORE: database
+      QUEUE_CONNECTION: database
+      DB_QUEUE_RETRY_AFTER: 180
+    steps:
+      - uses: actions/checkout@v5
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: pdo_mysql, pdo_sqlite, mbstring, dom, curl, fileinfo, intl, gd, zip
+          coverage: none
+          tools: composer:v2
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: npm
+      - name: PHP dependencies
+        run: composer install --prefer-dist --no-interaction --no-progress
+      - name: Prepare environment
+        run: |
+          cp .env.example .env
+          php artisan key:generate
+      - name: MySQL migrations and idempotent seed
+        run: |
+          php artisan migrate --force --seed
+          php artisan db:seed --force
+      - name: Backend tests
+        run: composer test
+      - name: PHP format
+        run: vendor/bin/pint --test
+      - name: Frontend dependencies
+        run: npm ci
+      - name: Frontend checks
+        run: |
+          npm run lint
+          npm run typecheck
+          npm run test
+          npm run build
+      - name: Browser dependencies
+        run: npx playwright install --with-deps chromium
+      - name: Browser acceptance
+        env:
+          PLAYWRIGHT_BASE_URL: http://127.0.0.1:8085
+          APP_URL: http://127.0.0.1:8085
+          SESSION_SECURE_COOKIE: 'false'
+        run: |
+          php artisan migrate:fresh --seed --force
+          php artisan serve --host=127.0.0.1 --port=8085 > /tmp/finwatch-server.log 2>&1 &
+          for attempt in $(seq 1 30); do curl -fsS http://127.0.0.1:8085/api/v1/overview && break || sleep 1; done
+          npm run test:e2e

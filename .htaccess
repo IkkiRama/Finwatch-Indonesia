@@ -1,0 +1,4 @@
+# The application must only be served from public/. Protect a mistaken parent document root.
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>

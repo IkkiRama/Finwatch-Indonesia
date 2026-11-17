@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "npl-dan-car-dua-angka-yang-berbeda-cerita",
+    "title": "NPL dan CAR: dua angka, dua cerita yang berbeda",
+    "excerpt": "Yang satu berbicara tentang kualitas kredit, yang lain tentang bantalan modal. Kenali artinya tanpa harus menjadi analis bank.",
+    "category": "Dasar Keuangan",
+    "category_slug": "dasar-keuangan",
+    "type": "education",
+    "tags": [
+      "mulai-dari-sini",
+      "perbankan",
+      "kamus-keuangan"
+    ],
+    "sources": [
+      {
+        "title": "OJK | Statistik Perbankan Indonesia, Juni 2025 (workbook historis)",
+        "url": "https://ojk.go.id/id/kanal/perbankan/data-dan-statistik/statistik-perbankan-indonesia/Documents/Pages/Statistik-Perbankan-Indonesia---Juni-2025/STATISTIK%20PERBANKAN%20INDONESIA%20%20-Juni%202025.xlsx"
+      },
+      {
+        "title": "OJK | Rapat Dewan Komisioner Bulanan Agustus 2025, rilis 4 September 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/RDKB-Agustus-2025.aspx"
+      }
+    ],
+    "theme": "banking",
+    "body": "<p>Di dashboard keuangan, dua huruf atau tiga huruf sering terasa seperti sandi. Padahal pertanyaan di baliknya cukup dekat dengan keseharian: apakah pinjaman kembali sesuai rencana, dan seberapa besar bantalan ketika keadaan memburuk?</p>\n<h2>NPL: lihat kualitas kreditnya</h2>\n<p><strong>Non-performing loan</strong> atau NPL adalah rasio kredit bermasalah terhadap total kredit. Angka ini membantu pembaca melihat kualitas penyaluran kredit. NPL gross melihat kredit bermasalah sebelum pengurangan cadangan tertentu; NPL net menggunakan perhitungan setelah penyesuaian cadangan. Karena definisinya berbeda, keduanya tidak boleh ditukar begitu saja.</p>\n<p>Bayangkan sebuah buku pinjaman, lalu sebagian halamannya diberi penanda untuk ditindaklanjuti. Penanda itu menggambarkan masalah dalam kualitas kredit, bukan otomatis seluruh nilai pinjaman sudah hilang. Untuk menilai kemungkinan kerugian masih diperlukan informasi cadangan, agunan, kemampuan peminjam, dan proses penyelesaian.</p>\n<h2>CAR: lihat bantalan modalnya</h2>\n<p><strong>Capital adequacy ratio</strong> atau CAR membandingkan modal dengan aset tertimbang menurut risiko. Istilah terakhir penting: pembaginya bukan sekadar seluruh kredit atau seluruh aset. Jenis eksposur yang berbeda dapat mempunyai bobot risiko berbeda.</p>\n<p>Analogi bantalan membantu memahami fungsinya, tetapi jangan menganggap CAR sebagai uang tunai yang langsung tersedia untuk ditarik nasabah. Modal, likuiditas, dan laba adalah hal berbeda. Rasio modal yang tinggi juga tidak menjawab semua pertanyaan mengenai kualitas aset atau kemampuan memenuhi kebutuhan dana jangka pendek.</p>\n<h2>Mengapa tidak cukup satu lampu hijau?</h2>\n<p>FINWATCH menampilkan NPL dan CAR bersama konteks tanggal, lingkup industri, serta sumber publikasi. Nilai agregat industri tidak menjelaskan keadaan setiap bank. Satu angka juga tidak membuktikan bahwa institusi tertentu aman atau bermasalah. Karena itu, warna visual di sini membantu membaca data, bukan memberi peringkat kesehatan resmi.</p>\n<p>Perhatikan pula cara menyebut perubahan. Jika sebuah rasio naik dari 2% menjadi 3%, selisihnya adalah 1 percentage point, biasa disingkat <strong>1 pp</strong>. Menyebutnya naik 1% akan membingungkan karena perubahan relatifnya berbeda. Contoh tersebut murni ilustrasi perhitungan, bukan observasi bank tertentu.</p>\n<h2>Tiga pertanyaan sebelum menarik kesimpulan</h2>\n<ol><li>Apakah yang dibandingkan sama-sama NPL gross, NPL net, atau CAR?</li><li>Apakah periode, lingkup, dan definisi datanya sama?</li><li>Apakah ada informasi pelengkap yang belum tersedia?</li></ol>\n<p>Gunakan dashboard sebagai pintu masuk untuk memahami hubungan antarindikator. Buka sumbernya ketika ingin memeriksa detail. Artikel ini merupakan penjelasan independen untuk pembaca umum, bukan penilaian kesehatan bank atau rekomendasi memilih produk.</p>"
+  },
+  {
+    "slug": "sebelum-transfer-berhenti-cek-dan-lindungi-diri",
+    "title": "Sebelum transfer: berhenti sebentar, cek dengan benar",
+    "excerpt": "Logo resmi dan pesan mendesak belum membuktikan sebuah tawaran benar. Ini cara memeriksa informasi dan menemukan kanal bantuan yang tepat.",
+    "category": "Aman Bertransaksi",
+    "category_slug": "aman-bertransaksi",
+    "type": "education",
+    "tags": [
+      "pelindungan-konsumen",
+      "anti-penipuan",
+      "panduan-praktis"
+    ],
+    "sources": [
+      {
+        "title": "OJK | Portal resmi Indonesia Anti-Scam Centre dan panduan pelaporan",
+        "url": "https://iasc.ojk.go.id/"
+      },
+      {
+        "title": "OJK | Waspada situs yang mengatasnamakan IASC, 28 Maret 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/info-terkini/Pages/Waspada-Penipuan-Website-Mengatasnamakan-Indonesia-Anti-Scam-Centre-IASC.aspx"
+      },
+      {
+        "title": "OJK | Waspada penipuan pemutihan data pinjaman online, 3 Maret 2026",
+        "url": "https://www.ojk.go.id/id/Publikasi/Info-Hoax/Pages/Awas-Penipuan-Pemutihan-Data-Pinjaman-Online-Mengatasnamakan-OJK.aspx"
+      }
+    ],
+    "theme": "safety",
+    "body": "<p>Pesannya bisa terlihat meyakinkan: ada logo, nama petugas, nomor tiket, bahkan kalimat “harus diselesaikan hari ini”. Ketika kita terburu-buru, pemeriksaan sederhana mudah terlewat. Beri diri sendiri ruang untuk berhenti sebelum mengirim uang atau data pribadi.</p>\n<h2>Mulai dari alamat, bukan tampilannya</h2>\n<p>Jangan menilai keaslian layanan hanya dari logo atau tangkapan layar. Cari situs lembaga secara mandiri, ketik alamatnya sendiri, lalu gunakan kontak yang tercantum di sana. Hindari menjadikan nomor pada pesan yang mencurigakan sebagai satu-satunya tempat bertanya. Jika nama penyedia layanan dan nama penerima pembayaran berbeda, minta penjelasan yang dapat diperiksa.</p>\n<p>OJK pernah memperingatkan adanya situs yang mengatasnamakan Indonesia Anti-Scam Centre. Portal resminya adalah <a href=\"https://iasc.ojk.go.id/\">iasc.ojk.go.id</a>. Kontak OJK untuk memeriksa informasi tersedia melalui telepon 157 dan WhatsApp 081-157-157-157. Kanal ini diperiksa kembali saat artikel disiapkan pada 3 November 2026; selalu lihat informasi terbaru pada situs resmi.</p>\n<h2>Legalitas dan kecocokan produk adalah dua pemeriksaan</h2>\n<p>Pastikan status penyedia melalui kanal otoritas yang berwenang. Setelah itu, baca apa yang sebenarnya ditawarkan: biaya, jatuh tempo, hak konsumen, risiko, dan cara penyelesaian keluhan. Izin sebuah lembaga tidak berarti setiap tautan atau orang yang memakai namanya adalah asli. Izin juga bukan jaminan bahwa suatu produk cocok dengan kebutuhan semua orang.</p>\n<p>Tanyakan pada diri sendiri: saya memahami uang ini digunakan untuk apa? Apa yang terjadi jika terlambat, rugi, atau ingin berhenti? Bila jawabannya hanya berupa janji di ruang chat, jangan anggap semua pertanyaan sudah terjawab. Jangan membagikan OTP, PIN, atau kata sandi agar orang lain “membantu memeriksa” akun.</p>\n<h2>Jika uang sudah terlanjur dikirim</h2>\n<p>Portal IASC mengarahkan korban untuk segera melapor melalui jalur penanganan finansial dan membuat laporan polisi untuk proses hukum. Siapkan bukti transfer, rekening terkait, kronologi, serta percakapan. Kecepatan melapor penting, tetapi laporan bukan janji bahwa seluruh dana pasti kembali. Ikuti petunjuk resmi dan simpan nomor laporan agar tindak lanjut dapat dilacak.</p>\n<h2>Waspadai tawaran “beres dengan satu biaya”</h2>\n<p>Pihak yang mengaku bisa menghapus masalah atau mengembalikan dana dengan meminta transfer tambahan perlu diperiksa ulang. OJK juga menerbitkan peringatan pada Maret 2026 mengenai klaim pemutihan data pinjaman online yang memakai namanya. Jangan menambah kerugian karena ingin segera mengakhiri situasi yang menegangkan.</p>\n<p>Ruang komentar FINWATCH adalah tempat berdiskusi tentang literasi. Jangan menaruh nomor rekening lengkap, dokumen identitas, atau bukti transaksi pribadi di sini. Untuk laporan kasus, gunakan kanal resmi yang ditautkan di referensi.</p>"
+  },
+  {
+    "slug": "punya-rekening-belum-tentu-paham-produknya",
+    "title": "Punya rekening belum tentu paham produknya",
+    "excerpt": "Akses keuangan dan pemahaman keuangan saling berkaitan, tetapi mengukur hal yang berbeda. Kenali perbedaannya melalui SNLIK.",
+    "category": "Literasi & Inklusi",
+    "category_slug": "literasi-inklusi",
+    "type": "education",
+    "tags": [
+      "literasi",
+      "inklusi",
+      "snlik"
+    ],
+    "sources": [
+      {
+        "title": "OJK dan BPS | Rilis SNLIK 2025, Metode Keberlanjutan, 2 Mei 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-dan-BPS-Umumkan-Hasil-Survei-Nasional-Literasi-dan-Inklusi-Keuangan-SNLIK-Tahun-2025.aspx"
+      },
+      {
+        "title": "OJK | Buku dan booklet Statistik SNLIK 2025",
+        "url": "https://ojk.go.id/id/Fungsi-Utama/Perilaku-Pelaku-Usaha-Jasa-Keuangan/SNLIK/Pages/SNLIK-2025.aspx"
+      }
+    ],
+    "theme": "literacy",
+    "body": "<p>Membuka rekening atau memakai dompet digital terasa semakin biasa. Namun bisa menggunakan sebuah aplikasi tidak selalu sama dengan memahami seluruh biaya dan risikonya. Di sinilah perbedaan antara inklusi dan literasi keuangan menjadi penting.</p>\n<h2>Akses dan pemahaman bukan sinonim</h2>\n<p>Secara sederhana, inklusi berkaitan dengan penggunaan produk dan layanan keuangan, sedangkan literasi berkaitan dengan pengetahuan serta kemampuan yang mendukung keputusan keuangan. Dua ukuran itu menjawab pertanyaan berbeda. Orang dapat bertransaksi dengan lancar tetapi belum terbiasa membandingkan biaya, memahami bunga, atau membaca pengecualian dalam perjanjian.</p>\n<p>Itu bukan alasan untuk memberi label buruk pada pengguna. Produk, bahasa kontrak, pengalaman belajar, dan situasi hidup juga dapat memengaruhi cara seseorang mengambil keputusan. Penjelasan yang mudah dipahami sama pentingnya dengan akses yang mudah.</p>\n<h2>Bagaimana membaca angka SNLIK?</h2>\n<p>Pada rilis SNLIK 2025, Metode Keberlanjutan mencatat literasi nasional 66,46% dan inklusi 80,51%. Keduanya adalah hasil survei dengan definisi tertentu. Angka tersebut adalah snapshot historis 2025, bukan ukuran langsung kemampuan orang yang sedang membaca artikel ini dan bukan statistik terbaru tahun 2026.</p>\n<p>Jangan membaca selisih dua indeks sebagai daftar pasti orang yang menggunakan layanan tetapi tidak memahami layanan tersebut. Untuk menjawab siapa termasuk kelompok mana, diperlukan data gabungan pada tingkat responden. Dashboard agregat tidak menyimpan informasi pribadi seperti itu.</p>\n<h2>Empat pertanyaan sebelum memilih layanan</h2>\n<ul><li><strong>Tujuan:</strong> kebutuhan apa yang ingin saya selesaikan?</li><li><strong>Biaya:</strong> berapa biaya total, bukan hanya angka promosi di halaman pertama?</li><li><strong>Risiko:</strong> apa yang dapat berubah atau membuat saya menanggung kerugian?</li><li><strong>Hak:</strong> bagaimana mengajukan pertanyaan, keluhan, atau menghentikan penggunaan?</li></ul>\n<p>Pertanyaan ini merupakan alat bantu membaca, bukan tes kelulusan literasi. Ketika suatu istilah belum jelas, minta contoh perhitungan dalam rupiah dan waktu yang konkret. Penjelasan “biayanya kecil” berbeda dengan rincian yang bisa dibandingkan. Catat jawaban agar keputusan tidak hanya bergantung pada ingatan setelah berbicara dengan petugas.</p>\n<h2>Dari indeks menuju pengalaman sehari-hari</h2>\n<p>Survei membantu melihat pola yang luas. Untuk kehidupan sehari-hari, terjemahkan pola itu menjadi kebiasaan: memeriksa sumber, membaca ringkasan informasi, dan menyisihkan waktu untuk bertanya. Tidak semua orang membutuhkan produk yang sama. Akses yang lebih luas akan lebih berguna ketika orang dapat memilih dengan informasi yang dimengerti.</p>\n<p>FINWATCH menyajikan perbandingan nasional serta kelompok perkotaan/perdesaan yang tersedia dalam sumber. Kelompok survei tersebut bukan peta nilai setiap provinsi. Buka catatan metode sebelum membandingkan cakupan atau tahun yang berbeda.</p>"
+  },
+  {
+    "slug": "tiga-tanggal-di-balik-satu-angka",
+    "title": "Tiga tanggal di balik satu angka",
+    "excerpt": "Periode observasi, tanggal rilis, dan tanggal pengambilan data tidak sama. Pahami bedanya agar tidak mengira data lama sebagai kondisi hari ini.",
+    "category": "Baca Data",
+    "category_slug": "baca-data",
+    "type": "education",
+    "tags": [
+      "metodologi",
+      "baca-data",
+      "mulai-dari-sini"
+    ],
+    "sources": [
+      {
+        "title": "OJK | Statistik Perbankan Indonesia, Juni 2025 (workbook historis)",
+        "url": "https://ojk.go.id/id/kanal/perbankan/data-dan-statistik/statistik-perbankan-indonesia/Documents/Pages/Statistik-Perbankan-Indonesia---Juni-2025/STATISTIK%20PERBANKAN%20INDONESIA%20%20-Juni%202025.xlsx"
+      },
+      {
+        "title": "OJK | Rapat Dewan Komisioner Bulanan Agustus 2025, rilis 4 September 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/RDKB-Agustus-2025.aspx"
+      }
+    ],
+    "theme": "dates",
+    "body": "<p>Anda membuka dashboard pada November, tetapi grafik berhenti di Juni. Apakah aplikasinya rusak? Belum tentu. Data keuangan biasanya melewati proses pengumpulan dan publikasi sebelum bisa dibaca publik. Karena itu satu angka mempunyai lebih dari satu tanggal penting.</p>\n<h2>Pertama: kapan keadaan itu diamati?</h2>\n<p><strong>Periode observasi</strong> menjawab kapan kondisi yang diukur terjadi. Saldo pada akhir bulan, jumlah kejadian selama satu bulan, dan akumulasi sejak awal tahun adalah tiga jenis ukuran yang berbeda. Label periode membantu kita mengetahui mana yang sedang dibaca.</p>\n<p>Pikirkan sebuah foto. Tanggal foto diambil berbeda dari tanggal foto itu dikirim kepada teman. Demikian juga angka Juni tetap menggambarkan periode Juni walaupun baru Anda temukan beberapa bulan kemudian.</p>\n<h2>Kedua: kapan sumber merilisnya?</h2>\n<p><strong>Tanggal rilis</strong> menandai waktu penerbit menyediakan publikasi. Pada snapshot FINWATCH, arsip SPI Juni 2025 mempunyai tanggal rilis 29 Agustus 2025. Rilis RDKB Agustus 2025 yang dipakai sebagai salah satu referensi diterbitkan pada 4 September 2025. Nama dokumen saja tidak cukup untuk mengetahui periode setiap angka di dalamnya.</p>\n<p>Dalam sebuah siaran pers, angka terbaru bisa muncul bersama angka bulan sebelumnya sebagai pembanding. Mengambil semuanya lalu memberi satu tanggal yang sama akan membuat cerita datanya keliru. Periksa kalimat di sekitar angka serta judul kolom pada tabel.</p>\n<h2>Ketiga: kapan FINWATCH mengambilnya?</h2>\n<p><strong>Tanggal pengambilan</strong> adalah catatan kerja FINWATCH. Tanggal ini membantu penelusuran berkas dan versi, tetapi tidak memperbarui periode observasi. Mengunduh berkas 2025 pada 2026 tidak mengubah berkas itu menjadi data kondisi 2026.</p>\n<p>Versi juga penting. Jika penerbit memperbaiki angka lama, pembaca perlu mengetahui publikasi mana yang digunakan. FINWATCH menyimpan snapshot dan checksum untuk menelusuri input, lalu menampilkan versi yang sudah dipublikasikan pengelola. Pembaruan tidak boleh diam-diam mencampur angka dari definisi yang berbeda.</p>\n<h2>Daftar periksa selama sepuluh detik</h2>\n<ol><li>Baca periode observasi sebelum membaca besar angkanya.</li><li>Periksa satuan: persen, rupiah triliun, orang, atau jumlah pengaduan.</li><li>Periksa apakah angka itu bulanan, posisi akhir periode, atau kumulatif.</li><li>Buka tautan sumber dan catatan versi ketika perbandingannya terasa janggal.</li></ol>\n<p>Tahun di footer situs mengikuti kalender. Tahun di filter mengikuti data yang tersedia. Dua hal itu tidak harus sama. Dashboard yang jujur dapat menampilkan data historis yang berguna, selama tanggal dan batas penggunaannya jelas. Jangan menyebut snapshot lama sebagai kondisi terkini.</p>"
+  },
+  {
+    "slug": "membaca-jarak-akses-dan-pemahaman-snlik-2025",
+    "title": "Akses tumbuh, pemahaman menyusul: membaca SNLIK 2025",
+    "excerpt": "Catatan riset deskriptif atas dua indeks nasional serta perbandingan perkotaan/perdesaan. Selisihnya menarik, tetapi tidak membuktikan hubungan sebab-akibat.",
+    "category": "Catatan Riset",
+    "category_slug": "catatan-riset",
+    "type": "research",
+    "tags": [
+      "snlik-2025",
+      "riset-deskriptif",
+      "inklusi"
+    ],
+    "sources": [
+      {
+        "title": "OJK dan BPS | Rilis SNLIK 2025, Metode Keberlanjutan, 2 Mei 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-dan-BPS-Umumkan-Hasil-Survei-Nasional-Literasi-dan-Inklusi-Keuangan-SNLIK-Tahun-2025.aspx"
+      },
+      {
+        "title": "OJK | Buku dan booklet Statistik SNLIK 2025",
+        "url": "https://ojk.go.id/id/Fungsi-Utama/Perilaku-Pelaku-Usaha-Jasa-Keuangan/SNLIK/Pages/SNLIK-2025.aspx"
+      }
+    ],
+    "theme": "gap",
+    "body": "<p><strong>Pertanyaan riset:</strong> bagaimana membaca perbedaan antara akses layanan keuangan dan pemahaman keuangan tanpa membuat kesimpulan yang melampaui data? Catatan ini menggunakan hasil SNLIK 2025 Metode Keberlanjutan yang tersedia dalam snapshot FINWATCH.</p>\n<h2>Dua perubahan yang bergerak berbeda</h2>\n<p>Indeks literasi nasional berubah dari 65,43% pada 2024 menjadi 66,46% pada 2025. Inklusi berubah dari 75,02% menjadi 80,51%. Hasil pengurangan sederhana menunjukkan kenaikan masing-masing 1,03 pp dan 5,49 pp. Selisih kedua indeks pada 2025 adalah 14,05 pp.</p>\n<p>Artinya, dalam perbandingan deskriptif ini, indeks penggunaan layanan bertambah lebih besar daripada indeks pemahaman. Ini adalah ringkasan pergerakan indeks, bukan bukti bahwa individu tertentu mulai memakai produk tanpa memahami risikonya. Selisih marginal tidak mengungkap irisan dua kelompok responden.</p>\n<h2>Perkotaan dan perdesaan: bandingkan kelompok yang tersedia</h2>\n<p>Rilis 2025 mencatat literasi perkotaan 70,89% dan perdesaan 59,60%; inklusi masing-masing 83,61% dan 75,70%. Perbedaan antarkelompok adalah 11,29 pp untuk literasi dan 7,91 pp untuk inklusi. Angka ini menggambarkan kelompok survei, bukan peringkat provinsi.</p>\n<p>Karena itu kami memilih visual batang berpasangan. Peta provinsi akan memberi kesan bahwa setiap daerah memiliki nilai yang diketahui, padahal dataset yang dikurasi di sini tidak menyediakan rincian tersebut. Bentuk visual harus mengikuti butir data yang benar-benar ada.</p>\n<h2>Apa yang belum bisa dijawab?</h2>\n<ul><li><strong>Penyebab kesenjangan.</strong> Perbandingan ini tidak mengisolasi pengaruh pendidikan, pendapatan, usia, infrastruktur, atau karakteristik lain.</li><li><strong>Ketidakpastian estimasi.</strong> Catatan ini tidak menghitung interval kepercayaan karena tidak memakai microdata dan desain sampling lengkap.</li><li><strong>Pengalaman konsumen.</strong> Akses belum menjelaskan biaya, kesesuaian produk, atau kualitas penyelesaian keluhan.</li></ul>\n<p>SNLIK 2025 juga mempunyai Metode Cakupan DNKI. Cakupannya berbeda; angka dari metode tersebut tidak disisipkan ke deret Keberlanjutan hanya karena tampak lebih tinggi. Perbandingan memerlukan penyebut dan definisi yang konsisten. Publikasi setelah 2025 harus ditinjau terpisah sebelum ditambahkan.</p>\n<h2>Implikasi untuk cara menyajikan edukasi</h2>\n<p>Sebagai hipotesis kerja, layanan informasi dapat lebih berguna bila muncul pada saat orang membuat keputusan: ketika membandingkan biaya, membaca kontrak, atau mencari bantuan. Hipotesis itu perlu diuji melalui riset yang berbeda. Snapshot ini sendiri tidak mengukur keberhasilan suatu program edukasi atau menentukan intervensi mana yang paling efektif.</p>\n<p><strong>Metode:</strong> perbandingan deskriptif dan selisih dalam percentage point; tidak ada regresi, model kausal, atau interpolasi. <strong>Batas waktu:</strong> data historis SNLIK 2024–2025, bukan klaim kondisi terbaru 2026. Semua perhitungan dapat diperiksa kembali dari nilai sumber di dashboard.</p>"
+  },
+  {
+    "slug": "potret-perbankan-juni-2025-angka-dan-batas-ceritanya",
+    "title": "Potret perbankan Juni 2025: angka dan batas ceritanya",
+    "excerpt": "Membaca kredit, simpanan, modal dan NPL sebagai satu potret industri. Catatan ini menekankan keterbandingan, bukan memberi ramalan atau rating bank.",
+    "category": "Catatan Riset",
+    "category_slug": "catatan-riset",
+    "type": "research",
+    "tags": [
+      "spi-juni-2025",
+      "perbankan",
+      "riset-deskriptif"
+    ],
+    "sources": [
+      {
+        "title": "OJK | Statistik Perbankan Indonesia, Juni 2025 (workbook historis)",
+        "url": "https://ojk.go.id/id/kanal/perbankan/data-dan-statistik/statistik-perbankan-indonesia/Documents/Pages/Statistik-Perbankan-Indonesia---Juni-2025/STATISTIK%20PERBANKAN%20INDONESIA%20%20-Juni%202025.xlsx"
+      },
+      {
+        "title": "OJK | Rapat Dewan Komisioner Bulanan Agustus 2025, rilis 4 September 2025",
+        "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/RDKB-Agustus-2025.aspx"
+      }
+    ],
+    "theme": "research",
+    "body": "<p><strong>Pertanyaan riset:</strong> informasi apa yang bisa diringkas dari snapshot industri perbankan Juni 2025, dan kesimpulan apa yang sebaiknya ditahan? Catatan ini memakai angka agregat Bank Umum pada workbook SPI Juni 2025 serta satu observasi NPL gross yang disebut dalam rilis OJK.</p>\n<h2>Satu potret, beberapa ukuran</h2>\n<p>Setelah mengubah satuan sumber dari rupiah miliar menjadi rupiah triliun, snapshot mencatat kredit pihak ketiga bukan bank sekitar Rp8.059,79 triliun, dana pihak ketiga Rp9.329,00 triliun, dan total aset Rp12.822,65 triliun. CAR sekitar 25,81% dan LDR sekitar 86,40%. NPL gross Juni 2025 sebesar 2,22% diambil dari rilis RDKB Agustus 2025, dengan provenance terpisah.</p>\n<p>Angka-angka itu tidak mempunyai penyebut yang sama. Aset adalah ukuran neraca; kredit merupakan salah satu penyaluran dana; simpanan menggambarkan salah satu sumber pendanaan. CAR berbasis aset tertimbang menurut risiko, sedangkan LDR membandingkan kredit dan dana pihak ketiga sesuai definisi sumber. Menjejerkannya berguna untuk orientasi, bukan untuk dijumlahkan.</p>\n<h2>Mengapa arah gerak perlu konteks?</h2>\n<p>Perubahan kredit dapat dipengaruhi permintaan, penawaran, pembayaran kembali, dan perubahan cakupan. Perubahan rasio bisa berasal dari pembilang, penyebut, atau keduanya. Karena itu satu garis yang naik tidak otomatis berarti satu kondisi membaik; satu garis yang turun juga tidak otomatis berarti masalah.</p>\n<p>Untuk rasio, FINWATCH menampilkan perubahan dalam pp. Untuk level positif, perubahan relatif dihitung dari nilai terbaru dibanding periode sebelumnya. Periode harus berurutan dan catatan definisinya sama. Bila syarat itu tidak terpenuhi, perubahan diberi keterangan belum sebanding agar pembaca tidak diarahkan pada tren yang dibuat-buat.</p>\n<h2>Bagaimana dengan sinyal penelitian?</h2>\n<p>Aturan EWS di situs ini merupakan parameter eksplorasi yang dapat diperiksa. Pemenuhan aturan tidak setara dengan penetapan tingkat kesehatan oleh regulator. Demikian pula z-score historis hanya mengukur posisi terhadap baseline yang dipilih, bukan probabilitas krisis. Jumlah pengamatan dan perubahan definisi dapat memengaruhi hasilnya.</p>\n<p>Seri NPL yang dikurasi di sini baru mempunyai satu titik. Kami tidak menggambar narasi kenaikan atau penurunan dari satu observasi. Ketiadaan deret bukan alasan untuk menebak titik yang hilang atau meminjam nilai dari periode berbeda tanpa penjelasan.</p>\n<h2>Batas penggunaan catatan ini</h2>\n<ul><li>Agregat industri tidak mewakili neraca setiap bank.</li><li>Nilai historis tidak menggambarkan kondisi terkini November 2026.</li><li>Analisis ini tidak menguji sebab-akibat dan tidak menghasilkan proyeksi.</li><li>Perhitungan sederhana tidak menggantikan penilaian risiko yang menggunakan informasi lebih lengkap.</li></ul>\n<p><strong>Metode:</strong> kurasi snapshot, pemeriksaan satuan dan perbandingan deskriptif. Pembulatan dua desimal digunakan untuk kenyamanan membaca; ekspor data menyimpan presisi input. Langkah riset berikutnya adalah memeriksa seri yang lebih baru, konsistensi definisi, dan dokumen metodologinya sebelum memperluas kesimpulan.</p>"
+  }
+]

@@ -1,0 +1,5 @@
+<!doctype html><html lang="id"><head><meta charset="utf-8"><style>body{font-family:DejaVu Sans,sans-serif;font-size:10pt;line-height:1.6;color:#193d34}h1{font-size:23pt}h2{font-size:15pt}a{color:#176555}img{display:none}table{border-collapse:collapse;width:100%}td,th{border:1px solid #aaa;padding:5px}footer{margin-top:30px;border-top:1px solid #ccc;padding-top:10px;font-size:8pt}</style></head><body>
+<p>FINWATCH INDONESIA / PENELITIAN & EDUKASI</p><h1>{{ $article->title }}</h1><p>{{ $article->excerpt }}</p><p>{{ $article->author->public_name }} · {{ $article->published_at?->format('d-m-Y') }}</p>
+{!! $article->body_html !!}<h2>Referensi</h2><ul>@foreach($article->sources as $source)<li>{{ $source['title'] }} | {{ $source['url'] }}</li>@endforeach</ul>
+<footer>© {{ now()->year }} FINWATCH Indonesia. Proyek independen; tidak berafiliasi dengan OJK. Materi edukasi, bukan rekomendasi investasi.<br>Made with love by <a href="https://www.instagram.com/george_ikki/">Rifki Romadhan</a></footer>
+</body></html>

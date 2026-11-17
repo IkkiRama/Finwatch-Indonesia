@@ -1,0 +1,216 @@
+{
+  "version": "snlik-provinsi-2022-v1",
+  "geography_id": "snlik-2022-34",
+  "code_scheme": "bnpb-kdppum",
+  "source_url": "https://www.ojk.go.id/id/berita-dan-kegiatan/publikasi/Pages/Booklet-Survei-Nasional-Literasi-dan-Inklusi-Keuangan-Tahun-2022.aspx",
+  "source_release_date": "2022-11-24",
+  "source_checked_on": "2026-11-03",
+  "source_pdf_sha256": "3fb4c3142d711fd8b2a574c078a147cf8c56bfb7965ee4b5789146f8beb42229",
+  "code_source_url": "https://gis.bnpb.go.id/server/rest/services/inarisk/batas_administrasi/MapServer/1",
+  "rows": [
+    {
+      "code": "11",
+      "name": "Aceh",
+      "literacy": 49.87,
+      "inclusion": 89.87
+    },
+    {
+      "code": "12",
+      "name": "Sumatera Utara",
+      "literacy": 51.69,
+      "inclusion": 95.58
+    },
+    {
+      "code": "13",
+      "name": "Sumatera Barat",
+      "literacy": 40.78,
+      "inclusion": 76.88
+    },
+    {
+      "code": "14",
+      "name": "Riau",
+      "literacy": 67.27,
+      "inclusion": 85.19
+    },
+    {
+      "code": "15",
+      "name": "Jambi",
+      "literacy": 46.49,
+      "inclusion": 85.19
+    },
+    {
+      "code": "16",
+      "name": "Sumatera Selatan",
+      "literacy": 52.73,
+      "inclusion": 88.57
+    },
+    {
+      "code": "17",
+      "name": "Bengkulu",
+      "literacy": 30.39,
+      "inclusion": 88.05
+    },
+    {
+      "code": "18",
+      "name": "Lampung",
+      "literacy": 41.3,
+      "inclusion": 74.81
+    },
+    {
+      "code": "19",
+      "name": "Kepulauan Bangka Belitung",
+      "literacy": 62.34,
+      "inclusion": 79.48
+    },
+    {
+      "code": "21",
+      "name": "Kepulauan Riau",
+      "literacy": 48.57,
+      "inclusion": 87.01
+    },
+    {
+      "code": "31",
+      "name": "DKI Jakarta",
+      "literacy": 52.99,
+      "inclusion": 96.62
+    },
+    {
+      "code": "32",
+      "name": "Jawa Barat",
+      "literacy": 56.1,
+      "inclusion": 88.31
+    },
+    {
+      "code": "33",
+      "name": "Jawa Tengah",
+      "literacy": 51.69,
+      "inclusion": 85.97
+    },
+    {
+      "code": "34",
+      "name": "DI Yogyakarta",
+      "literacy": 54.55,
+      "inclusion": 82.08
+    },
+    {
+      "code": "35",
+      "name": "Jawa Timur",
+      "literacy": 55.32,
+      "inclusion": 92.99
+    },
+    {
+      "code": "36",
+      "name": "Banten",
+      "literacy": 45.19,
+      "inclusion": 85.71
+    },
+    {
+      "code": "51",
+      "name": "Bali",
+      "literacy": 57.66,
+      "inclusion": 92.21
+    },
+    {
+      "code": "52",
+      "name": "Nusa Tenggara Barat",
+      "literacy": 65.45,
+      "inclusion": 82.34
+    },
+    {
+      "code": "53",
+      "name": "Nusa Tenggara Timur",
+      "literacy": 51.95,
+      "inclusion": 85.97
+    },
+    {
+      "code": "61",
+      "name": "Kalimantan Barat",
+      "literacy": 51.95,
+      "inclusion": 84.16
+    },
+    {
+      "code": "62",
+      "name": "Kalimantan Tengah",
+      "literacy": 32.73,
+      "inclusion": 81.3
+    },
+    {
+      "code": "63",
+      "name": "Kalimantan Selatan",
+      "literacy": 42.08,
+      "inclusion": 81.56
+    },
+    {
+      "code": "64",
+      "name": "Kalimantan Timur",
+      "literacy": 57.14,
+      "inclusion": 93.25
+    },
+    {
+      "code": "65",
+      "name": "Kalimantan Utara",
+      "literacy": 58.7,
+      "inclusion": 91.69
+    },
+    {
+      "code": "71",
+      "name": "Sulawesi Utara",
+      "literacy": 50.13,
+      "inclusion": 86.23
+    },
+    {
+      "code": "72",
+      "name": "Sulawesi Tengah",
+      "literacy": 56.36,
+      "inclusion": 78.44
+    },
+    {
+      "code": "73",
+      "name": "Sulawesi Selatan",
+      "literacy": 36.88,
+      "inclusion": 84.42
+    },
+    {
+      "code": "74",
+      "name": "Sulawesi Tenggara",
+      "literacy": 31.95,
+      "inclusion": 88.57
+    },
+    {
+      "code": "75",
+      "name": "Gorontalo",
+      "literacy": 52.21,
+      "inclusion": 88.57
+    },
+    {
+      "code": "76",
+      "name": "Sulawesi Barat",
+      "literacy": 46.49,
+      "inclusion": 70.39
+    },
+    {
+      "code": "81",
+      "name": "Maluku",
+      "literacy": 40.78,
+      "inclusion": 78.7
+    },
+    {
+      "code": "82",
+      "name": "Maluku Utara",
+      "literacy": 49.35,
+      "inclusion": 81.04
+    },
+    {
+      "code": "92",
+      "name": "Papua Barat",
+      "literacy": 54.29,
+      "inclusion": 81.3
+    },
+    {
+      "code": "91",
+      "name": "Papua",
+      "literacy": 45.19,
+      "inclusion": 76.36
+    }
+  ]
+}

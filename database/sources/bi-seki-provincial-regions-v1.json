@@ -1,0 +1,297 @@
+{
+  "version": "bi-seki-provincial-regions-v1",
+  "geography_id": "bi-seki-provincial-34-v1",
+  "code_scheme": "bi-seki-row-v1",
+  "verified_on": "2026-11-04",
+  "source_page_url": "https://www.bi.go.id/id/statistik/ekonomi-keuangan/seki/Default.aspx",
+  "source_tables": [
+    {
+      "id": "I.12",
+      "url": "https://www.bi.go.id/SEKI/tabel/TABEL1_12.pdf"
+    },
+    {
+      "id": "I.19",
+      "url": "https://www.bi.go.id/SEKI/tabel/TABEL1_19.pdf"
+    }
+  ],
+  "code_note": "Nomor 1 sampai 34 adalah urutan baris publikasi SEKI BI, bukan kode administratif BPS atau KDPPUM.",
+  "boundary_note": "Wilayah mengikuti 34 baris pada publikasi SEKI BI. Kesetaraan batas Papua dan Papua Barat dengan peta SNLIK 2022 belum diverifikasi. Papua Barat Daya, Papua Selatan, Papua Tengah dan Papua Pegunungan belum dirinci pada tabel ini; nilainya tidak dibagi atau diisi nol.",
+  "crosswalk_note": "snlik_code hanya menautkan pilihan bernama sama untuk 32 wilayah non-Papua. Tautan ini tidak menyatakan kesetaraan periode, metode, indikator atau batas wilayah lintas sumber.",
+  "rows": [
+    {
+      "code": "row-1",
+      "source_row": 1,
+      "source_name": "Nanggroe Aceh Darussalam",
+      "name": "Aceh",
+      "source_aliases": [],
+      "snlik_code": "11"
+    },
+    {
+      "code": "row-2",
+      "source_row": 2,
+      "source_name": "Sumatera Utara",
+      "name": "Sumatera Utara",
+      "source_aliases": [],
+      "snlik_code": "12"
+    },
+    {
+      "code": "row-3",
+      "source_row": 3,
+      "source_name": "Sumatera Barat",
+      "name": "Sumatera Barat",
+      "source_aliases": [],
+      "snlik_code": "13"
+    },
+    {
+      "code": "row-4",
+      "source_row": 4,
+      "source_name": "Riau",
+      "name": "Riau",
+      "source_aliases": [],
+      "snlik_code": "14"
+    },
+    {
+      "code": "row-5",
+      "source_row": 5,
+      "source_name": "Jambi",
+      "name": "Jambi",
+      "source_aliases": [],
+      "snlik_code": "15"
+    },
+    {
+      "code": "row-6",
+      "source_row": 6,
+      "source_name": "Sumatera Selatan",
+      "name": "Sumatera Selatan",
+      "source_aliases": [],
+      "snlik_code": "16"
+    },
+    {
+      "code": "row-7",
+      "source_row": 7,
+      "source_name": "Bangka Belitung",
+      "name": "Kepulauan Bangka Belitung",
+      "source_aliases": [],
+      "snlik_code": "19"
+    },
+    {
+      "code": "row-8",
+      "source_row": 8,
+      "source_name": "Bengkulu",
+      "name": "Bengkulu",
+      "source_aliases": [],
+      "snlik_code": "17"
+    },
+    {
+      "code": "row-9",
+      "source_row": 9,
+      "source_name": "Lampung",
+      "name": "Lampung",
+      "source_aliases": [],
+      "snlik_code": "18"
+    },
+    {
+      "code": "row-10",
+      "source_row": 10,
+      "source_name": "Banten",
+      "name": "Banten",
+      "source_aliases": [],
+      "snlik_code": "36"
+    },
+    {
+      "code": "row-11",
+      "source_row": 11,
+      "source_name": "D.K.I. Jakarta",
+      "name": "DKI Jakarta",
+      "source_aliases": [],
+      "snlik_code": "31"
+    },
+    {
+      "code": "row-12",
+      "source_row": 12,
+      "source_name": "Jawa Barat",
+      "name": "Jawa Barat",
+      "source_aliases": [],
+      "snlik_code": "32"
+    },
+    {
+      "code": "row-13",
+      "source_row": 13,
+      "source_name": "Jawa Tengah",
+      "name": "Jawa Tengah",
+      "source_aliases": [],
+      "snlik_code": "33"
+    },
+    {
+      "code": "row-14",
+      "source_row": 14,
+      "source_name": "D.I. Yogyakarta",
+      "name": "DI Yogyakarta",
+      "source_aliases": [],
+      "snlik_code": "34"
+    },
+    {
+      "code": "row-15",
+      "source_row": 15,
+      "source_name": "Jawa Timur",
+      "name": "Jawa Timur",
+      "source_aliases": [],
+      "snlik_code": "35"
+    },
+    {
+      "code": "row-16",
+      "source_row": 16,
+      "source_name": "Bali",
+      "name": "Bali",
+      "source_aliases": [],
+      "snlik_code": "51"
+    },
+    {
+      "code": "row-17",
+      "source_row": 17,
+      "source_name": "Nusa Tenggara Barat",
+      "name": "Nusa Tenggara Barat",
+      "source_aliases": [],
+      "snlik_code": "52"
+    },
+    {
+      "code": "row-18",
+      "source_row": 18,
+      "source_name": "Nusa Tenggara Timur 1)",
+      "name": "Nusa Tenggara Timur",
+      "source_aliases": [
+        "Nusa Tenggara Timur",
+        "Nusa Tenggara Timur1)"
+      ],
+      "snlik_code": "53"
+    },
+    {
+      "code": "row-19",
+      "source_row": 19,
+      "source_name": "Kalimantan Barat",
+      "name": "Kalimantan Barat",
+      "source_aliases": [],
+      "snlik_code": "61"
+    },
+    {
+      "code": "row-20",
+      "source_row": 20,
+      "source_name": "Kalimantan Tengah",
+      "name": "Kalimantan Tengah",
+      "source_aliases": [],
+      "snlik_code": "62"
+    },
+    {
+      "code": "row-21",
+      "source_row": 21,
+      "source_name": "Kalimantan Selatan",
+      "name": "Kalimantan Selatan",
+      "source_aliases": [],
+      "snlik_code": "63"
+    },
+    {
+      "code": "row-22",
+      "source_row": 22,
+      "source_name": "Kalimantan Timur",
+      "name": "Kalimantan Timur",
+      "source_aliases": [],
+      "snlik_code": "64"
+    },
+    {
+      "code": "row-23",
+      "source_row": 23,
+      "source_name": "Sulawesi Utara",
+      "name": "Sulawesi Utara",
+      "source_aliases": [],
+      "snlik_code": "71"
+    },
+    {
+      "code": "row-24",
+      "source_row": 24,
+      "source_name": "Gorontalo",
+      "name": "Gorontalo",
+      "source_aliases": [],
+      "snlik_code": "75"
+    },
+    {
+      "code": "row-25",
+      "source_row": 25,
+      "source_name": "Sulawesi Tengah",
+      "name": "Sulawesi Tengah",
+      "source_aliases": [],
+      "snlik_code": "72"
+    },
+    {
+      "code": "row-26",
+      "source_row": 26,
+      "source_name": "Sulawesi Selatan",
+      "name": "Sulawesi Selatan",
+      "source_aliases": [],
+      "snlik_code": "73"
+    },
+    {
+      "code": "row-27",
+      "source_row": 27,
+      "source_name": "Sulawesi Tenggara",
+      "name": "Sulawesi Tenggara",
+      "source_aliases": [],
+      "snlik_code": "74"
+    },
+    {
+      "code": "row-28",
+      "source_row": 28,
+      "source_name": "Maluku Utara",
+      "name": "Maluku Utara",
+      "source_aliases": [],
+      "snlik_code": "82"
+    },
+    {
+      "code": "row-29",
+      "source_row": 29,
+      "source_name": "Maluku",
+      "name": "Maluku",
+      "source_aliases": [],
+      "snlik_code": "81"
+    },
+    {
+      "code": "row-30",
+      "source_row": 30,
+      "source_name": "Papua",
+      "name": "Papua",
+      "source_aliases": [],
+      "snlik_code": null
+    },
+    {
+      "code": "row-31",
+      "source_row": 31,
+      "source_name": "Papua Barat",
+      "name": "Papua Barat",
+      "source_aliases": [],
+      "snlik_code": null
+    },
+    {
+      "code": "row-32",
+      "source_row": 32,
+      "source_name": "Sulawesi Barat",
+      "name": "Sulawesi Barat",
+      "source_aliases": [],
+      "snlik_code": "76"
+    },
+    {
+      "code": "row-33",
+      "source_row": 33,
+      "source_name": "Kepulauan Riau",
+      "name": "Kepulauan Riau",
+      "source_aliases": [],
+      "snlik_code": "21"
+    },
+    {
+      "code": "row-34",
+      "source_row": 34,
+      "source_name": "Kalimantan Utara",
+      "name": "Kalimantan Utara",
+      "source_aliases": [],
+      "snlik_code": "65"
+    }
+  ]
+}
